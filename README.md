@@ -1,5 +1,7 @@
-## Centering Learning and Equity in Assessment
-_Tapia 2021 Workshop_
+<!-- ## Centering Learning and Equity in Assessment
+_Tapia 2021 Workshop_ -->
+
+### Abstract
 
 This hands-on workshop is intended to provide faculty and graduate students teaching computer science (CS) courses an opportunity to modify their courses to better motivate and engage students via centering learning and equity in their courses’ assessment. Participants will learn about various assessment methods, explore their applications to various CS courses, and modify a syllabus or assignment for one of their courses based. The workshop will be supported with a workbook (guide) developed by the presenters so participants can continue to engage in their learning and course modification beyond the conclusion of the workshop. Participants will need to bring the syllabus and 1-2 assignments for the course they are interested in revising. Limited to 20 participants.
 
@@ -25,6 +27,12 @@ After hearing from their peers, participants will have the opportunity to revise
 Closing (5 min)
 Presenters will answer any final questions and share the workbook (guide) they have developed so participants can continue to engage in their learning and course modification beyond the conclusion of the workshop. 
 
+
+### Workbook
+
+The workbook, to be released, includes supplemental materials for the workshop and activities.  There will also be a Github Classroom Assignment to facilitate peer feedback. 
+
+
 ### About the Presenters
 
 __Sarah Brown__
@@ -37,8 +45,4 @@ Victoria C. Chávez (they/she) is a proud Chapinx (Guatemalan) who was born and 
 
 Victoria’s qualifications as they pertain to the proposed workshop include pedagogical professional development, experience in formal and informal K-12 and undergraduate teaching, as well as adult learner teaching, and development and delivery of professional development for CS educators and teaching assistants. Victoria centers equity and accessibility in her own teaching and is consistently engaged in discourse of evidence-based pedagogical practices.
 
-
-### Workbook
-
-The workbook, to be released, includes supplemental materials for the workshop and activities.  There will also be a Github Classroom Assignment to facilitate peer feedback. 
 
