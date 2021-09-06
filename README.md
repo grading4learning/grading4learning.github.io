@@ -24,7 +24,8 @@ As a whole group, participants will reflect on their modifications, the feedback
 
 __Revisions and Next Steps__ (5 min)
 After hearing from their peers, participants will have the opportunity to revise their modifications and plan out their ‘next steps’. 
-Closing (5 min)
+
+__Closing__ (5 min)
 Presenters will answer any final questions and share the workbook (guide) they have developed so participants can continue to engage in their learning and course modification beyond the conclusion of the workshop. 
 
 
