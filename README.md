@@ -31,8 +31,12 @@ Presenters will answer any final questions and share the workbook (guide) they h
 
 ### Workbook
 
-The workbook, to be released, includes supplemental materials for the workshop and activities.  There will also be a Github Classroom Assignment to facilitate peer feedback. 
+The [workbook](/workbook) includes supplemental materials for the workshop and activities.
 
+### Joining the Community
+Join our new and growing [community on Slack](https://join.slack.com/t/cle-community/shared_invite/zt-w11ht1dt-jz_aiHKGPlPPYoftnuxXcw)! 
+- Haven't used Slack? [Check out the start guide](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide?utm_source=hppromo&utm_medium=promo).
+- Slack join link not working? Slack invite links expire every 30 days and we may have forgotten to update it so please [let us know](https://github.com/grading4learning/workbook/issues)!
 
 ### About the Presenters
 
